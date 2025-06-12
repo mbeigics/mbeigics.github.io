@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year CS PhD student at University of California, Davis, advised by Prof. [Lifu Huang](https://wilburone.github.io/). My research centers on improving the reasoning, understanding, uncertainty estimation, and interpretability of foundation models. Currently, I focus on  developing more efficient, adaptive, and controllable algorithms for foundation models to handle complex reasoning and self-training tasks, while systematically analyzing their limitations and failure modes. My goal is to make these models not only more capable, but also more trustworthy and transparent.
+I am a first-year CS PhD student at University of California, Davis, advised by Prof. [Lifu Huang](https://wilburone.github.io/). My research centers on improving the reasoning, understanding, and interpretability of foundation models. Currently, I focus on  developing more efficient, adaptive, and controllable algorithms for foundation models to handle complex reasoning and self-training tasks, while systematically analyzing their limitations and failure modes. My goal is to make these models not only more capable, but also more trustworthy and transparent.
 
 Prior to starting my PhD, I completed my MS in Operations Research at Virginia Tech, and obtained my BS from [Sharif University of Technology](https://en.sharif.edu/). 
 
