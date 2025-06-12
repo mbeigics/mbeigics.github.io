@@ -4,7 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a first-year CS PhD student at University of California, Davis, advised by Prof. [Lifu Huang](https://wilburone.github.io/). My primary research topic is enhancing reasoning and understanding of foundation models. I mostly focus on developing better algorithms for language models to handle complex reasoning and self training tasks, while studying their current limitations.
+I am a first-year CS PhD student at University of California, Davis, advised by Prof. [Lifu Huang](https://wilburone.github.io/). My research centers on improving the reasoning, understanding, uncertainty estimation, and interpretability of large language models (LLMs). Broadly, I am enthusiastic about building robust AI agents capable of understanding, interpreting, and reasoning about the physical and conceptual world.
+
+Currently, I focus on developing better algorithms for foundation models to tackle complex reasoning and self-training tasks, while also analyzing their limitations and failure modes. My goal is to make these models not only more capable but also more trustworthy and transparent.
+
+
 Prior to starting my PhD, I completed my MS in Operations Research at Virginia Tech, and obtained my BS from [Sharif University of Technology](https://en.sharif.edu/). 
 
 If you're interested in my research, would like to discuss relevant topics, or explore potential collaborations, please feel free to get in touch :) - I am best reached by email at [mbeigi@ucdavis.edu](mailto:mbeigi@ucdavis.edu)
