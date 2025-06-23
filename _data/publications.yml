@@ -14,4 +14,12 @@ main:
     pdf: https://arxiv.org/pdf/2406.12053.pdf
     image: ./assets/img/internal.png
     notes: Poster
+
+  - title: "Navigating the Dual Facets: A Comprehensive Evaluation of Sequential Memory Editing in Large Language Models"
+    authors: Zihao Lin, <strong>Mohammad Beigi</strong>, Hongxuan Li, Yufan Zhou, Yuxiang Zhang, Qifan Wang, Wenpeng Yin, Lifu Huang
+    conference_short: ACL 2024
+    conference: The 62nd Annual Meeting of the Association for Computational Linguistics (ACL)
+    pdf: https://arxiv.org/pdf/2402.11122.pdf
+    image: ./assets/img/navigating.png
+    notes: Oral
  
