@@ -8,8 +8,4 @@ main:
     notes: Pre-Print
 
   - title: InternalInspector: Robust Confidence Estimation in LLMs through Internal States
-    conference_short: EMNLP 2024
-    conference: The 2025 Conference on Empirical Methods in Natural Language Processing
-    pdf: https://arxiv.org/pdf/2406.12053.pdf
-    image: ./assets/img/overview_internal.png
-    notes: Poster
+
