@@ -13,7 +13,9 @@ If you're interested in my research, would like to discuss relevant topics, or e
 
 ## Research Interests
 
-- **Foundation Models:** Reasoning and Self-Training of Large Language Models, Mechanistic Interpretability of Foundation Models , Uncertainty Estimation
+- **Reasoning and Self-Training of Large Language Models**
+- **Mechanistic Interpretability of Foundation Models**
+- **Uncertainty Estimation and Quantification**
 
 ## News
 - **[Feb. 2025]** Our new survey on mechanistic interpretability for multi-modal foundation models is availble at [arxiv](https://arxiv.org/abs/2502.17516)!
