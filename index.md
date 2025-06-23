@@ -8,7 +8,7 @@ I am a second-year CS PhD student at University of California, Davis, advised by
 
 Prior to starting my PhD, I completed my MS in Operations Research at [Virginia Tech](https://www.ise.vt.edu/), and obtained my BS from [Sharif University of Technology](https://en.sharif.edu/). 
 
-If you're interested in my research, would like to discuss relevant topics, or explore potential collaborations, please feel free to get in touch :) - I am best reached by email at [mbeigi@ucdavis.edu](mailto:mbeigi@ucdavis.edu)
+If you're interested in my research, would like to discuss relevant topics, or explore potential collaborations, please feel free to get in touch :) - I am best reached by email at [mbeigi@ucdavis.edu](mailto:mbeigi@ucdavis.edu).
 
 
 ## Research Interests
