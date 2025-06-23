@@ -21,8 +21,8 @@ If you're interested in my research, would like to discuss relevant topics, or e
 - **[Feb. 2025]** Our new survey on mechanistic interpretability for multi-modal foundation models is availble at [arxiv](https://arxiv.org/abs/2502.17516)!
 - **[Jan. 2025]** Glad to share that our lab has moved to UC Davis!
 - **[Oct. 2024]** Our new survey on uncertainty estimation and quantification of LLMs is availble at [arxiv](https://arxiv.org/abs/2410.20199)!
-- **[Sept. 2024]** Our paper [InternalInspector](https://arxiv.org/abs/2406.12053) is accepted to [**EMNLP 2024**](https://2024.emnlp.org/)! 
-- **[May. 2024]** Our paper [Navigating Dual Facet](https://arxiv.org/abs/2402.11122) on evaluating the memory editing of LLMs is accepted to [**ACL 2024**](https://2024.aclweb.org/)!
+- **[Sept. 2024]** Our paper, [InternalInspector](https://arxiv.org/abs/2406.12053), is accepted to [**EMNLP 2024**](https://2024.emnlp.org/)! 
+- **[May. 2024]** Our paper, [Navigating Dual Facet](https://arxiv.org/abs/2402.11122), on evaluating the memory editing of LLMs is accepted to [**ACL 2024**](https://2024.aclweb.org/)!
 
 {% include_relative _includes/publications.md %}
 
