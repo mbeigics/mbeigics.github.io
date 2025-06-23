@@ -13,15 +13,14 @@ If you're interested in my research, would like to discuss relevant topics, or e
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Foundation Models:** Reasoning and Self-Training of Large Language Models, Interpretability of Foundation Models , Uncertainty Estimation
 
 ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Feb. 2025]** Our new survey on Mechanistic Interpretability for Multi-Modal Foundation Models is availble at (https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f7ixDnMAAAAJ&citation_for_view=f7ixDnMAAAAJ:u5HHmVD_uO8C)!
+- **[Jan. 2025]** Glad to share that our lab has moved to UC Davis!
+- **[Oct. 2024]** Our new survey on uncertainty estimation and quantification of LLMs are availble at arxiv!
+- **[Sept. 2014]** Our paper [InternalInspector](https://arxiv.org/abs/2406.12053) is accepted to [**EMNLP 2024**](https://2024.emnlp.org/)! 
+- **[May. 2024]** Our paper ([https://openreview.net/forum?id=0XBuaxqEcG)](https://arxiv.org/abs/2402.11122) on evaluating the memory editing of LLMs is accepted to [**ACL 2024**](https://2024.aclweb.org/)!
 
 {% include_relative _includes/publications.md %}
 
