@@ -14,6 +14,7 @@ main:
     conference: The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)
     pdf: https://arxiv.org/pdf/2406.12053.pdf
     image: ./assets/img/internal.png
+    cite: https://scholar.google.com/scholar_lookup?arxiv_id=2406.12053#d=gs_cit&t=1750662582094&u=%2Fscholar%3Fq%3Dinfo%3AO1kUYmPWr60J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den
     notes: Poster
 
   - title: "Navigating the Dual Facets: A Comprehensive Evaluation of Sequential Memory Editing in Large Language Models"
@@ -22,6 +23,7 @@ main:
     conference: The 62nd Annual Meeting of the Association for Computational Linguistics (ACL)
     pdf: https://arxiv.org/pdf/2402.11122.pdf
     image: ./assets/img/navigating.png
+    cite: https://scholar.google.com/scholar_lookup?arxiv_id=2402.11122#d=gs_cit&t=1750662601178&u=%2Fscholar%3Fq%3Dinfo%3Apwx9MJg9vPUJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den
     notes: Oral
 
   - title: "Rethinking the Uncertainty: A Critical Review and Analysis in the Era of Large Language Models"
@@ -29,4 +31,5 @@ main:
     conference_short: Pre-Print
     pdf: https://arxiv.org/pdf/2410.20199.pdf
     image: ./assets/img/rethinking.png
+    cite: https://scholar.google.com/scholar_lookup?arxiv_id=2410.20199#d=gs_cit&t=1750662625052&u=%2Fscholar%3Fq%3Dinfo%3AXoGUWhtDR60J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den
     notes: Pre-Print
