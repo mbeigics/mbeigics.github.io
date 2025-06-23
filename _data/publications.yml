@@ -7,5 +7,4 @@ main:
     image: ./assets/img/taxonomy.jpg
     notes: Pre-Print
 
-  - title: InternalInspector: Robust Confidence Estimation in LLMs through Internal States
-
+ 
