@@ -1,13 +1,13 @@
 main:
 
-  - title: A Survey on Mechanistic Interpretability for Multi-Modal Foundation Models
+  - title: "A Survey on Mechanistic Interpretability for Multi-Modal Foundation Models"
     authors: Zihao Lin*, Samyadeep Basu*, <strong>Mohammad Beigi*</strong>, Varun Manjunatha, Ryan A Rossi, Zichao Wang, Yufan Zhou, Sriram Balasubramanian, Arman Zarei, Keivan Rezaei, Ying Shen, Barry Menglong Yao, Zhiyang Xu, Qin Liu, Yuxiang Zhang, Yan Sun, Shilong Liu, Li Shen, Hongxuan Li, Soheil Feizi, Lifu Huang (*Equal Contribution)
     conference_short: Pre-Print
     pdf: https://arxiv.org/pdf/2502.17516.pdf
     image: ./assets/img/taxonomy.jpg
     notes: Pre-Print
 
-  - title: InternalInspector I2: Robust Confidence Estimation in LLMs through Internal States
+  - title: "InternalInspector I2: Robust Confidence Estimation in LLMs through Internal States"
     authors: Zihao Lin*, Samyadeep Basu*, <strong>Mohammad Beigi*</strong>, Varun Manjunatha, Ryan A Rossi, Zichao Wang, Yufan Zhou, Sriram Balasubramanian, Arman Zarei, Keivan Rezaei, Ying Shen, Barry Menglong Yao, Zhiyang Xu, Qin Liu, Yuxiang Zhang, Yan Sun, Shilong Liu, Li Shen, Hongxuan Li, Soheil Feizi, Lifu Huang (*Equal Contribution)
     conference_short: Pre-Print
     pdf: https://arxiv.org/pdf/2502.17516.pdf
