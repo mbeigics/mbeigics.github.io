@@ -16,9 +16,9 @@ If you're interested in my research, would like to discuss relevant topics, or e
 - **Foundation Models:** Reasoning and Self-Training of Large Language Models, Interpretability of Foundation Models , Uncertainty Estimation
 
 ## News
-- **[Feb. 2025]** Our new survey on Mechanistic Interpretability for Multi-Modal Foundation Models is availble at [Arxiv](https://arxiv.org/abs/2502.17516))!
+- **[Feb. 2025]** Our new survey on Mechanistic Interpretability for Multi-Modal Foundation Models is availble at [arxiv](https://arxiv.org/abs/2502.17516)!
 - **[Jan. 2025]** Glad to share that our lab has moved to UC Davis!
-- **[Oct. 2024]** Our new survey on uncertainty estimation and quantification of LLMs are availble at arxiv!
+- **[Oct. 2024]** Our new survey on uncertainty estimation and quantification of LLMs are availble at [arxiv](https://arxiv.org/abs/2410.20199)!
 - **[Sept. 2014]** Our paper [InternalInspector](https://arxiv.org/abs/2406.12053) is accepted to [**EMNLP 2024**](https://2024.emnlp.org/)! 
 - **[May. 2024]** Our paper ([https://openreview.net/forum?id=0XBuaxqEcG)](https://arxiv.org/abs/2402.11122) on evaluating the memory editing of LLMs is accepted to [**ACL 2024**](https://2024.aclweb.org/)!
 
