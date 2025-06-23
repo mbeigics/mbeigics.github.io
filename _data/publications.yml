@@ -5,7 +5,7 @@ main:
     conference_short: Pre-Print
     pdf: https://arxiv.org/pdf/2502.17516.pdf
     image: ./assets/img/taxonomy.jpg
-    cite: https://scholar.google.com/scholar_lookup?arxiv_id=2502.17516
+    cite: https://scholar.google.com/scholar_lookup?arxiv_id=2502.17516#d=gs_cit&t=1750662267383&u=%2Fscholar%3Fq%3Dinfo%3A-J9qm_pAfHcJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den
     notes: Pre-Print
 
   - title: "InternalInspector I<sup>2</sup>: Robust Confidence Estimation in LLMs through Internal States"
