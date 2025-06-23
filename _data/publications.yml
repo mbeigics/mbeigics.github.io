@@ -12,6 +12,6 @@ main:
     conference_short: EMNLP 2024
     conference: The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)
     pdf: https://arxiv.org/pdf/2406.12053.pdf
-    image: ./assets/img/overview_internal.png
+    image: ./assets/img/overview.pdf
     notes: Poster
  
