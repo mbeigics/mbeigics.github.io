@@ -7,9 +7,10 @@ main:
     image: ./assets/img/taxonomy.jpg
     notes: Pre-Print
 
-  - title: InternalInspector I2: Robust Confidence Estimation in LLMs through Internal States
+  - title: InternalInspector: Robust Confidence Estimation in LLMs through Internal States
     authors: <strong>Mohammad Beigi</strong>, Ying Shen, Runing Yang, Zihao Lin, Qifan Wang, Ankith Mohan, Jianfeng He, Ming Jin, Chang-Tien Lu, Lifu Huang
     conference_short: EMNLP 2024
+    conference: 
     pdf: https://arxiv.org/pdf/2406.12053.pdf
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
