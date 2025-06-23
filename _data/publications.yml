@@ -24,7 +24,7 @@ main:
     notes: Oral
 
   - title: "Rethinking the Uncertainty: A Critical Review and Analysis in the Era of Large Language Models"
-    authors: <strong>Mohammad Beigi*</strong>, Sijia Wang, Ying Shen, Zihao Lin, Adithya Kulkarni, Jianfeng He, Feng Chen, Ming Jin, Jin-Hee Cho, Dawei Zhou, Chang-Tien Lu, Lifu Huang
+    authors: <strong>Mohammad Beigi</strong>, Sijia Wang, Ying Shen, Zihao Lin, Adithya Kulkarni, Jianfeng He, Feng Chen, Ming Jin, Jin-Hee Cho, Dawei Zhou, Chang-Tien Lu, Lifu Huang
     conference_short: Pre-Print
     pdf: https://arxiv.org/pdf/2410.20199.pdf
     image: ./assets/img/rethinking.png
