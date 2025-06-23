@@ -8,7 +8,6 @@ main:
     notes: Pre-Print
 
   - title: InternalInspector: Robust Confidence Estimation in LLMs through Internal States
-    authors: <strong>Mohammad Beigi</strong>, Ying Shen, Runing Yang, Zihao Lin, Qifan Wang, Ankith Mohan, Jianfeng He, Ming Jin, Chang-Tien Lu, Lifu Huang
     conference_short: EMNLP 2024
     conference: The 2025 Conference on Empirical Methods in Natural Language Processing
     pdf: https://arxiv.org/pdf/2406.12053.pdf
