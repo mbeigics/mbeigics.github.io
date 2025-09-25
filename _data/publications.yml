@@ -1,4 +1,13 @@
 main:
+- title: "Sycophancy Mitigation Through Reinforcement Learning with Uncertainty-Aware Adaptive Reasoning Trajectories"
+    authors: <strong>Mohammad Beigi*</strong>, Ying Shen, Parshin Shojaee, Qifan Wang, Zichao Wang, Chandan Reddy, Ming Jin, Lifu Huang
+    conference_short: EMNLP 2025
+    pdf: https://arxiv.org/pdf/2509.16742
+    image: ./assets/img/taxonomy.jpg
+    cite: https://scholar.google.com/scholar_lookup?arxiv_id=2509.16742#d=gs_cit&t=1758842041834&u=%2Fscholar%3Fq%3Dinfo%3AyXy74FhJresJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den
+    notes: Main
+    
+
 
   - title: "A Survey on Mechanistic Interpretability for Multi-Modal Foundation Models"
     authors: Zihao Lin*, Samyadeep Basu*, <strong>Mohammad Beigi*</strong>, Varun Manjunatha, Ryan A Rossi, Zichao Wang, Yufan Zhou, Sriram Balasubramanian, Arman Zarei, Keivan Rezaei, Ying Shen, Barry Menglong Yao, Zhiyang Xu, Qin Liu, Yuxiang Zhang, Yan Sun, Shilong Liu, Li Shen, Hongxuan Li, Soheil Feizi, Lifu Huang (*Equal Contribution)
