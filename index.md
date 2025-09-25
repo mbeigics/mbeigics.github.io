@@ -18,6 +18,7 @@ If you're interested in my research, would like to discuss relevant topics, or e
 - **Uncertainty Estimation and Quantification**
 
 ## News
+- **[Sept. 2025]** Our paper, [SMART](https://arxiv.org/abs/2406.12053) Sycophancy Mitigation Through Reinforcement Learning with Uncertainty-Aware Adaptive Reasoning Trajectories , is accepted to [**EMNLP 2025**](https://2025.emnlp.org/)!
 - **[Feb. 2025]** Our new survey on mechanistic interpretability for multi-modal foundation models is availble at [arxiv](https://arxiv.org/abs/2502.17516)!
 - **[Jan. 2025]** Glad to share that our lab has moved to UC Davis!
 - **[Oct. 2024]** Our new survey on uncertainty estimation and quantification of LLMs is availble at [arxiv](https://arxiv.org/abs/2410.20199)!
