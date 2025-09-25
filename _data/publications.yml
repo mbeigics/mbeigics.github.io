@@ -1,5 +1,5 @@
 main:
-- title: "Sycophancy Mitigation Through Reinforcement Learning with Uncertainty-Aware Adaptive Reasoning Trajectories"
+  - title: "Sycophancy Mitigation Through Reinforcement Learning with Uncertainty-Aware Adaptive Reasoning Trajectories"
     authors: <strong>Mohammad Beigi*</strong>, Ying Shen, Parshin Shojaee, Qifan Wang, Zichao Wang, Chandan Reddy, Ming Jin, Lifu Huang
     conference_short: EMNLP 2025
     pdf: https://arxiv.org/pdf/2509.16742
