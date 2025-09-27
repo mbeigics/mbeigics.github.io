@@ -12,7 +12,7 @@ If you're interested in my research, would like to discuss relevant topics, or e
 
 
 ## Research Interests
-- **Reinforcement Learning, Meta Learning, Reward Hacking**
+- **Reinforcement Learning, Inverse Reinforcement Learning, Reward Hacking**
 - **Reasoning and Self-Training of Large Language Models**
 - **Mechanistic Interpretability of Foundation Models**
 - **Uncertainty Estimation and Quantification**
