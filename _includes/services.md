@@ -1,4 +1,4 @@
 ## Services
 
-**Workshop Reviewer:** ICLR 2025 AI for Science
+**Reviewer:** ICLR 2025 AI for Science
 
