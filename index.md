@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second-year CS PhD student at University of California, Davis, advised by Prof. [Lifu Huang](https://wilburone.github.io/). My research centers on improving the reasoning, alignment, and interpretability of large language models (LLMs). Currently, I focus on developing mechanisms for robust reasoning and trustworthy alignment by detecting and mitigating reward hacking through adversarial auditing and inverse reinforcement learning, and by designing uncertainty-aware methods to enhance reasoning stability and reduce sycophancy. My goal is to make these models not only more capable, but also more reliable, transparent, and aligned with human intent.
+I am a second-year CS PhD student at University of California, Davis, advised by Prof. [Lifu Huang](https://wilburone.github.io/). My research centers on improving the reasoning, alignment, and interpretability of large language models. Currently, I focus on developing mechanisms for robust reasoning and trustworthy alignment by detecting and mitigating reward hacking through adversarial auditing and inverse reinforcement learning, and by designing uncertainty-aware methods to enhance reasoning stability and reduce sycophancy. My goal is to make these models not only more capable, but also more reliable, transparent, and aligned with human intent.
 
 Prior to starting my PhD, I completed my MS in Operations Research at [Virginia Tech](https://www.ise.vt.edu/), and obtained my BS from [Sharif University of Technology](https://en.sharif.edu/). 
 
