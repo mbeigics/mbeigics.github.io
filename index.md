@@ -6,7 +6,7 @@ layout: homepage
 
 I am a second-year CS PhD student at University of California, Davis, advised by Prof. [Lifu Huang](https://wilburone.github.io/). My research centers on improving the reasoning, alignment, and interpretability of large language models. Currently, I focus on developing mechanisms for robust reasoning and trustworthy alignment by detecting and mitigating reward hacking through adversarial auditing and inverse reinforcement learning, and by designing uncertainty-aware methods to enhance reasoning stability and reduce sycophancy. My goal is to make these models not only more capable, but also more reliable, transparent, and aligned with human intent.
 
-Prior to starting my PhD, I completed my Masters at [Virginia Tech](https://www.ise.vt.edu/), and obtained my BS from [Sharif University of Technology](https://en.sharif.edu/). You can find my CV [Here](https://drive.google.com/file/d/1LlgrcbmJGxtrsN1xHACe3TilDhGkudS5/view?usp=sharing).
+Prior to starting my PhD, I completed my Masters at [Virginia Tech](https://www.ise.vt.edu/), and obtained my BS from [Sharif University of Technology](https://en.sharif.edu/). You can find my CV [here](https://drive.google.com/file/d/1LlgrcbmJGxtrsN1xHACe3TilDhGkudS5/view?usp=sharing).
 
 If you're interested in my research, would like to discuss relevant topics, or explore potential collaborations, please feel free to get in touch :) - I am best reached by email at [mbeigi@ucdavis.edu](mailto:mbeigi@ucdavis.edu).
 
