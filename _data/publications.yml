@@ -2,7 +2,7 @@ main:
 
 
   - title: "Adversarial Reward Auditing for Active Detection and Mitigation of Reward Hacking"
-    authors: "<strong>Mohammad Bejic*</strong>, Ming Jin, Junshan Zhang, Qifan Wang, Lifu Huang"
+    authors: "<strong>Mohammad Beigi</strong>, Ming Jin, Junshan Zhang, Qifan Wang, Lifu Huang"
     conference_short: "Pre-print"
     pdf: "https://arxiv.org/pdf/2602.01750"
     image: "./assets/img/framework.png"
@@ -11,7 +11,7 @@ main:
 
     
   - title: "Sycophancy Mitigation Through Reinforcement Learning with Uncertainty-Aware Adaptive Reasoning Trajectories"
-    authors: <strong>Mohammad Beigi*</strong>, Ying Shen, Parshin Shojaee, Qifan Wang, Zichao Wang, Chandan Reddy, Ming Jin, Lifu Huang
+    authors: <strong>Mohammad Beigi</strong>, Ying Shen, Parshin Shojaee, Qifan Wang, Zichao Wang, Chandan Reddy, Ming Jin, Lifu Huang
     conference_short: EMNLP 2025
     pdf: https://arxiv.org/pdf/2509.16742
     image: ./assets/img/final.png
